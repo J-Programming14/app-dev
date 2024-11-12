@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-# **Favorite Movies**
+## **Favorite Movies**
 
 1. Breaking Bad
 2. The Office
